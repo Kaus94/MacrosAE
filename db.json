@@ -1,0 +1,67 @@
+{
+  "rest-list": [
+    {
+      "id": 1,
+      "rest_name": "Imperial Way",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi",
+      "rating": 4.9,
+      "image": "https://b.zmtcdn.com/data/pictures/3/5600103/9349e76fd38c49aa32a3e608bb5feaf1_featured_v2.jpg"
+    },
+    {
+      "id": 2,
+      "rest_name": "iHop",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi",
+      "rating": 4.9,
+      "image": "https://b.zmtcdn.com/data/pictures/3/5600103/9349e76fd38c49aa32a3e608bb5feaf1_featured_v2.jpg"
+    },
+    {
+      "id": 3,
+      "rest_name": "Denny's",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi",
+      "rating": 4.9,
+      "image": "https://b.zmtcdn.com/data/pictures/3/5600103/9349e76fd38c49aa32a3e608bb5feaf1_featured_v2.jpg"
+    },
+    {
+      "id": 4,
+      "rest_name": "P.F Chang's",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi",
+      "rating": 4.9,
+      "image": "https://b.zmtcdn.com/data/pictures/3/5600103/9349e76fd38c49aa32a3e608bb5feaf1_featured_v2.jpg"
+    },
+    {
+      "id": 5,
+      "rest_name": "Shake Shack",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi",
+      "rating": 4.9,
+      "image": "https://b.zmtcdn.com/data/pictures/3/5600103/9349e76fd38c49aa32a3e608bb5feaf1_featured_v2.jpg"
+    },
+    {
+      "id": 6,
+      "rest_name": "Soulfull - DIFC",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi",
+      "rating": 4.9,
+      "image": "https://b.zmtcdn.com/data/pictures/3/5600103/9349e76fd38c49aa32a3e608bb5feaf1_featured_v2.jpg"
+    },
+    {
+      "id": 7,
+      "rest_name": "Ice Cream Lab",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi",
+      "rating": 4.9,
+      "image": "https://b.zmtcdn.com/data/pictures/3/5600103/9349e76fd38c49aa32a3e608bb5feaf1_featured_v2.jpg"
+    },
+    {
+      "id": 8,
+      "rest_name": "Gazebo",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi",
+      "rating": 4.9,
+      "image": "https://b.zmtcdn.com/data/pictures/3/5600103/9349e76fd38c49aa32a3e608bb5feaf1_featured_v2.jpg"
+    },
+    {
+      "id": 9,
+      "rest_name": "BBQ Nation",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi",
+      "rating": 4.9,
+      "image": "https://b.zmtcdn.com/data/pictures/3/5600103/9349e76fd38c49aa32a3e608bb5feaf1_featured_v2.jpg"
+    }
+  ]
+}
