@@ -19,11 +19,18 @@ class RestaurantList extends Component {
 
   render() {
   return (
-    <View>
+    <View style={styles.restBackgroundStyle}>
       {this.renderRestaurants()}
     </View>
     );
   }
 }
+
+const styles = {
+  restBackgroundStyle: {
+    backgroundColor: '#f9f9f9',
+    paddingTop: 2,
+  }
+};
 
 export default RestaurantList;

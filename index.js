@@ -8,7 +8,7 @@ import RestaurantList from './src/components/RestaurantList';
 // create a component
 const App = () => (
   <View>
-    <Header headerText={'Dashboard'} />
+    <Header headerText={'Restaurants'} />
     <RestaurantList />
   </View>
   );
